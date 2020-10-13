@@ -12,6 +12,10 @@
  *
  *= require_tree .
  *= require_self
+ *= require bootstrap
+ *= require select2
+ *= require daterangepicker
+ *= require hamburgers
  *= require main
  *= require util
  */

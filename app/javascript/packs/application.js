@@ -9,8 +9,14 @@ require("@rails/activestorage").start()
 require("channels")
 // require("packs")
 require("jquery")
+require("packs/main")
 require("packs/select2")
-
+require("packs/countdowntime")
+require("packs/moment")
+require("packs/popper")
+require("packs/tooltip")
+require("packs/perfect-scrollbar.min")
+require("packs/daterangepicker")
 
 // Uncomment to copy all static images under ../images to the output folder and reference
 // them with the image_pack_tag helper in views (e.g <%= image_pack_tag 'rails.png' %>)

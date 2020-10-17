@@ -3,29 +3,28 @@
 
 @font-face {
   font-family: Poppins-Regular;
-  src: asset_url('fonts/poppins/Poppins-Regular.ttf');
+  src: asset_url('fonts/poppins/Poppins-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: Poppins-Medium;
-  src: asset_url('fonts/poppins/Poppins-Medium.ttf');
+  src: asset_url('fonts/poppins/Poppins-Medium.ttf') format('truetype');
 }
 
 @font-face {
   font-family: Poppins-Bold;
-  src: asset_url('fonts/poppins/Poppins-Bold.ttf');
+  src: asset_url('fonts/poppins/Poppins-Bold.ttf') format('truetype');
 }
 
 @font-face {
   font-family: Poppins-SemiBold;
-  src: asset_url('fonts/poppins/Poppins-SemiBold.ttf');
+  src: asset_url('fonts/poppins/Poppins-SemiBold.ttf') format('truetype');
 }
 
 @font-face {
   font-family: Montserrat-Bold;
-  src: asset_url('fonts/montserrat/Montserrat-Bold.ttf');
+  src: asset_url('fonts/montserrat/Montserrat-Bold.ttf') format('truetype');
 }
-
 
 /*//////////////////////////////////////////////////////////////////
 [ RESTYLE TAG ]*/
